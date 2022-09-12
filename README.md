@@ -1,6 +1,6 @@
 👋 Hi, I’m Chris.  
 I’m a molecular biologist turning front end developer.   
-I'm currently working with Python, JavaSscipt, React, Tailwind, Vite.  
+I'm currently working with Python, JavaScript, React, Tailwind.  
 I practice JS on [Codewars](https://www.codewars.com/users/ccozens) and the code for sites I'm building is all hosted here. 
 
 <!---
