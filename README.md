@@ -18,7 +18,9 @@ I'm currently learning sveltekit.
 #### How:
 1. [Official svelte+kit tutorial](https://learn.svelte.dev/tutorial/welcome-to-svelte)
 2. [Level Up sveltekit](https://levelup.video/tutorials/sveltekit)
-2. [Level Up svelte+TypeScript]([https://levelup.video/tutorials/sveltekit](https://levelup.video/tutorials/svelte-and-typescript))
+3. [Level Up svelte + TypeScript](https:/levelup.video/tutorials/svelte-and-typescript)
+   
+   
 
 #### Then:
 1. Build a blog with [MDX support](https://mdsvex.com/) and tags so I can document my future learning.
