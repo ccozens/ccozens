@@ -4,7 +4,7 @@ I'm currently working with TypeScript, React, Nodejs.
 I'm currently learning sveltekit.
 
 
-## Update June '23:
+## Update July '23:
 
 ### I have completed:
 1. [codeacademy's full stack engineer](https://www.linkedin.com/posts/chris-cozens-b2883a45_im-happy-to-share-that-ive-obtained-a-new-activity-7032076507715915776-Mvna?utm_source=share&utm_medium=member_desktop) pathway
@@ -23,7 +23,7 @@ I'm currently learning sveltekit.
    
 
 #### Then:
-1. Build a blog with [MDX support](https://mdsvex.com/) and tags so I can document my future learning.
+1. Build a blog with sveltekit as a learning project and so I can document my future learning.
 2. Experience! Open source and volunteer web dev projects.
    
 <!---
